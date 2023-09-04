@@ -17,4 +17,4 @@ The objective of this data analysis project is to gain insights into a branch of
 4. Consider offering larger pizza sizes and implementing interactive ordering options to enhance customer satisfaction and drive revenue growth.
 
 ### Dashboard Image
-![Screenshot (5)](https://github.com/Yash757575/Dominos_Pizza_Sales_Insights/blob/11f44f091f7caf2a04486efdef17b825f1d0bfc8/Screenshot%20Domino)
+
