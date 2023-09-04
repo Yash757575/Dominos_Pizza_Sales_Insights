@@ -17,4 +17,4 @@ The objective of this data analysis project is to gain insights into a branch of
 4. Consider offering larger pizza sizes and implementing interactive ordering options to enhance customer satisfaction and drive revenue growth.
 
 ### Dashboard Image
-
+![Screenshot (31221)](https://github-production-user-asset-6210df.s3.amazonaws.com/131526402/261851701-2f2fc0fb-a4f3-4d67-ba5e-88f6c8ed609a.png)
